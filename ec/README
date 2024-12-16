@@ -1,0 +1,7 @@
+Brendan McGinn
+bmcginn2
+
+1. I created a simulation of the Non-Deterministic Automata from exam 1b Q22. It takes a string of a's and b's (and empty strings), and properly rejects and accepts them.
+2. I did not feel comfortable with Non-Deterministic Automata, TMs, etc. Homework 3, which was largely ND's was my worst homework. I also got a number of the questions based on this ND Automata wrong (although Q22, Q24, 
+and Q25 were syntax errors, not comprehension errors).
+3. There is only 1 colab file. If you download it and upload it to Google Colab, you can run it and write your string to see it work.
